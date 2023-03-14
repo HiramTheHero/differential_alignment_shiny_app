@@ -1,1 +1,6 @@
-This is some test text on the README file.
+This is an R Shiny App that calculates Differential Alignment.
+
+Derived from the paper:
+
+Taylor, J. A., Polanin, J. R., Kowalski, S. M., Wilson, C. D., & Stuhlsatz, M. A. (2022). Addressing test fairness in education research: A process for quantifying the alignment between outcome measures and education interventions. Social Sciences & Humanities Open, 6(1), 100312.
+
