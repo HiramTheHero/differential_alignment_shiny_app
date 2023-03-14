@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hixson"
+  given-names: "Daniel"
+  orcid: ""
+title: "Differential Alignment App"
+version: 1.0
+doi: 
+date-released: 2023-3-13
+url: "https://github.com/HiramTheHero/differential_alignment_shiny_app"
