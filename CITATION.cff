@@ -3,7 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Hixson"
   given-names: "Daniel"
-  orcid: ""
 title: "Differential Alignment App"
 version: 1.0
 doi: 
@@ -12,18 +11,20 @@ url: "https://github.com/HiramTheHero/differential_alignment_shiny_app"
 preferred-citation:
   type: article
   authors:
-  - family-names: "Lisa"
-    given-names: "Mona"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "Bot"
-    given-names: "Hew"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  doi: "10.0000/00000"
-  journal: "Social Sciences & Humanities"
+  - family-names: "Taylor"
+    given-names: "Joseph A."
+  - family-names: "Polanin"
+    given-names: "Joshua R."
+  - family-names: "Kowalski"
+    given-names: "Susan M."
+  - family-names: "Wilson"
+    given-names: "Christopher D."
+  - family-names: "Stuhlastz"
+    given-names: "Molly A.M."
+  journal: "Social Sciences & Humanities Open"
   month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
+  start: 100312 # First page number
   title: "Addressing test fairness in education research: A process for quantifying the alignment between outcome measures and education interventions"
   issue: 1
-  volume: 1
+  volume: 6
   year: 2022
