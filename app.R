@@ -20,7 +20,10 @@ ui <- fluidPage(
                    tags$h2("Step 2"),
                    tags$p("Go to the \"Download Data Format\" tab to properly format your data for calculations."),
                    tags$h2("Step 3"),
-                   tags$p("Go to the \"Perform the Analysis\" tab and upload your data to perform the necessary calculations.")
+                   tags$p("Go to the \"Perform the Analysis\" tab and upload your data to perform the necessary calculations."),
+                   tags$h3("More Info"),
+                   tags$p("If you have any questions please contact Dr. Joseph Taylor at", a("jtlr19@gmail.com", href="mailto: jtlr19@gmail.com")),
+                   tags$p("A tutorial", a("Youtube video", href="mailto: jtlr19@gmail.com"), "is available.")
                  )
                ),
       tabPanel("#1 Pre-Assessment", fluid = TRUE,
